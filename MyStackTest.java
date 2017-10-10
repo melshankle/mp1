@@ -128,9 +128,10 @@ public class MyStackTest {
 		assertEquals (stack.empty(), true);
                 out.println("Exiting testEmptyPop()");
 	    }
-	
+
 	@Test
 	public void failingTest() {
     		assertTrue(false);
 	}
+
 }
